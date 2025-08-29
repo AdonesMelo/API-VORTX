@@ -34,6 +34,8 @@ DB_NAME=nome_do_banco
 DB_USER=usuario
 DB_PASS=senha
 
+🔒 Importante: Certifique-se de que o arquivo .env esteja listado no .gitignore para evitar o versionamento de informações sensíveis.
+
 
 ## 📦 Instalação
 
